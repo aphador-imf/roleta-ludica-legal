@@ -154,6 +154,8 @@ Os dados armazenados localmente podem ser eliminados nas configurações do Andr
 
 **Configurações → Aplicativos → Roleta Lúdica → Armazenamento → Limpar dados**
 
+O aplicativo também disponibiliza a opção **“Apagar dados armazenados no aparelho”** em sua tela interna de Política de Privacidade. Essa função cancela eventual sincronização em andamento e elimina o cache local, o token temporário e os registros locais de sincronização.
+
 A desinstalação do aplicativo também elimina os dados locais armazenados em seu espaço interno.
 
 A exclusão dos dados locais do Roleta Lúdica não apaga a conta, a coleção ou o histórico mantidos pela Ludopedia.
